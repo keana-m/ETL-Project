@@ -1,7 +1,7 @@
-## ETL Final Project Report
-# Extraction
+# ETL Final Project Report
+## Extraction
 
-# Transformation
+## Transformation
 
-# Load
+## Load
 
