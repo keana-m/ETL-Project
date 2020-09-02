@@ -2,16 +2,16 @@
 ## Extraction
 We used 2 different datasets from the public platform Kaggle. The data in the two files included the following information:
 
-YouTube Video Categories in the US
-List of Youtube Videos and Ratings in the US
+*	YouTube Video Categories in the US
+*	List of Youtube Videos and Ratings in the US
 
 The fields of interest include the following:
 
-Video ID
-Video Category
-Video Title
-Likes and Dislikes Count
-View Count
+*	Video ID
+*	Video Category
+*	Video Title
+*	Likes and Dislikes Count
+*	View Count
 
 The following sources for our datasets used:
 
