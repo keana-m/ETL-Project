@@ -22,9 +22,9 @@ https://www.kaggle.com/yanpapadakis/trending-youtube-video-metadata-analysis
 ## Transformation
 In order to transform the data, we performed the following:
 
-Used Pandas functions in Jupyter Notebook to load the CSV and JSON file.
-Reviewed the files and transformed them into data frames.
-Removed certain columns that were not of interest.
+*	Used Pandas functions in Jupyter Notebook to load the CSV and JSON file.
+*	Reviewed the files and transformed them into data frames.
+*	Removed certain columns that were not of interest.
 
 ## Load
 The last step was to load our final output into a database. We decided to load our cleansed data and formed our category mapping table and video information table into our PostgresSQL.
